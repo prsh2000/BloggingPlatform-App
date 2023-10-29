@@ -108,4 +108,10 @@ To run this application locally, you will need to have Java and MySQL installed 
 
 This is a brief summary of my project where we can perform all these task smoothly and efficiently.
 
+ ### Contibutor
+
+* Pratik Sharma
+* Mail to: thepratiksharma@Gmail.com
+ 
+
 
