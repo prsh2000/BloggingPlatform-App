@@ -6,8 +6,6 @@ This project is aimed at creating Blogging Platform API. This Readme.md file wil
 
 - ![MySql](https://img.shields.io/badge/DBMS-MYSQL_8.0_or_Higher-blue)
 - ![SpringBoot](https://img.shields.io/badge/Framework-SpringBoot-green)
-- ![Security](https://img.shields.io/badge/Security-Spring_Security_6.1.0-red)
-- ![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-JWT_0.11.5-purple)
 - ![Java](https://img.shields.io/badge/Language-Java%208%20or%20higher-yellow)
 
  ### Installation
@@ -110,7 +108,8 @@ This is a brief summary of my project where we can perform all these task smooth
 
  ### Contibutor
 
-* Pratik Sharma                                                                                                              Mail to: thepratiksharma@Gmail.com
+* Pratik Sharma
+* Mail to: thepratiksharma@gmail.com
   
  
 
