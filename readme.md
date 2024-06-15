@@ -109,7 +109,7 @@ This is a brief summary of my project where we can perform all these task smooth
  ### Contibutor
 
 * Pratik Sharma
-* Mail to: thepratiksharma@gmail.com
+* Mail to: cse.pratiksharma@gmail.com
   
  
 
