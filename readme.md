@@ -1,5 +1,5 @@
 <h1 align="center"> 
-🏡Blogging App</h1>
+🏡Blogging App Project</h1>
 This project is aimed at creating Blogging Platform API. This Readme.md file will guide you through the project setup, the models used, and the API endpoints available.
 
  ### Framework and Language used
